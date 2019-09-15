@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: livesearchtask, Configuration: Debug Any CPU ------
+1>  livesearchtask -> C:\Users\kishor\documents\visual studio 2015\Projects\livesearchtask\livesearchtask\bin\livesearchtask.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "livesearchtask", "livesearchtask\livesearchtask.csproj", "{C5885D8A-B60A-42D7-B528-4AA2F69B785D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5885D8A-B60A-42D7-B528-4AA2F69B785D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5885D8A-B60A-42D7-B528-4AA2F69B785D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5885D8A-B60A-42D7-B528-4AA2F69B785D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5885D8A-B60A-42D7-B528-4AA2F69B785D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
